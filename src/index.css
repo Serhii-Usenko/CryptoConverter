@@ -1,0 +1,43 @@
+.newsTitle {
+    text-align: center;
+}
+
+.newsContent {
+	height: 520px;
+	background-color:rgb(219, 241, 219);
+}
+
+.pagination-container {
+	position: absolute;
+	text-align: center;
+	top: 510px;
+	left: 0;
+	right: 0;
+}
+
+.converter {
+	height: 300px;
+	background-color: rgb(160, 212, 241);
+}
+
+.converterTitle {
+	text-align: center;
+}
+
+.initialArea {
+	display: flex;
+	justify-content: space-between;
+	width: 30%;
+	margin-bottom: 10px;
+}
+
+.finalArea {
+	width: 30%;
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 10px;
+}
+
+.convertButton {
+	margin-left: 140px;
+}

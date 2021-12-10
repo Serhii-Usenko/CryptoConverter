@@ -1,0 +1,10 @@
+.number-pgn {
+	padding: 5px;
+	border: 1px solid black;
+    text-decoration: none;
+}
+
+.number-pgn:focus {
+    background-color: black;
+    color: white;
+}
